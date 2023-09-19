@@ -1,1 +1,26 @@
 # QR_CODE-Project
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="styles.css"/>
+        <title>QR Scan</title>
+        <link rel="icon" href="favicon-32x32.png" type="favicon-32x32">
+    </head>
+    <body>
+        <div class="container">
+            <div class="image-container">
+                <a href="image-qr-code.png"><img src="image-qr-code.png" alt="qr code" class="resized-image"></a>
+            </div>
+            <div class="body">
+                <p><strong>Improve your front-end skills by building projects</p></strong></p>
+            </div>
+            <div class="close">
+                <p><span>Scan the QR code to visit frontend Mentor and take your coding skills to the next level</span></p>
+            </div>
+        </div>
+        
+    </body>
+</html>
