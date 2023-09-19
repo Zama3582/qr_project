@@ -1,5 +1,3 @@
-# QR_CODE-Project
-<!DOCTYPE html>
 
 <html lang="en">
     <head>
@@ -8,7 +6,6 @@
         <link rel="stylesheet" href="styles.css"/>
         <title>QR Scan</title>
         <link rel="icon" href="favicon-32x32.png" type="favicon-32x32">
-        body {
     </head>
     <body>
         <div class="container">
